@@ -3,6 +3,7 @@ Kerjakan:
 1. Jelaskan beberapa contoh fungsi aktivasi
    Fungsi aktivasi dalam ANN digunakan untuk memperkenalkan non-linearitas ke dalam model, memungkinkan jaringan untuk belajar dan memodelkan data yang kompleks.
    contoh fingsi aktivasi :
+   
    a) Sigmoid (logistic) Function:
       Fungsi aktivasi sigmoid, juga dikenal sebagai fungsi aktivasi logistik, mengambil masukan dan mengubahnya menjadi keluaran yang berkisar antara 0 dan 1. Ini sangat berguna untuk tugas klasifikasi atau prediksi probabilitas sehingga dapat diimplementasikan ke dalam pelatihan visi komputer dan jaringan pembelajaran mendalam.
 ![image](https://github.com/isnaenti/kelas/assets/100338225/0345a767-d5e3-4f69-bb9e-12347c8c01a3)
