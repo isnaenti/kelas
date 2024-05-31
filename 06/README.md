@@ -1,6 +1,7 @@
 # ANN
 Kerjakan:
 1. Jelaskan beberapa contoh fungsi aktivasi
+
    Fungsi aktivasi dalam ANN digunakan untuk memperkenalkan non-linearitas ke dalam model, memungkinkan jaringan untuk belajar dan memodelkan data yang kompleks.
    contoh fingsi aktivasi :
    
