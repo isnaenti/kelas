@@ -72,9 +72,6 @@ Autoencoder menemukan variabel laten dengan melewatkan data input melalui "kemac
    * VGG
    VGG ( Grup Geometri Visual ), yang normal dalam Jaringan Saraf Konvolusional ( CNN ) struktur yang terdiri dari beberapa lapisan melahirkan Revolusi Pembelajaran Mendalam yang dipimpin oleh VGG-16 dan VGG-19.
 
-![image](https://github.com/isnaenti/kelas/assets/100338225/1b1dc031-e823-450f-93bb-432606c08087)
-
-
 Arsitektur VGG
 
 VGGNets didasarkan pada fitur paling penting dari jaringan saraf konvolusional ( CNN ). Grafik berikut menunjukkan konsep dasar tentang cara kerja CNN:
@@ -85,8 +82,6 @@ VGGNets didasarkan pada fitur paling penting dari jaringan saraf konvolusional (
 · Lapisan Konvolusional: Lapisan konvolusional VGG menggunakan bidang reseptif minimum 3 × 3 yang kecil, tetapi menggabungkan gerakan naik / turun dan kiri / kanan.
 · Lapisan Tersembunyi: Setiap lapisan tersembunyi VGG menggunakan ReLU. Normalisasi Respons Lokal ( LRN ) biasanya tidak dieksploitasi oleh VGG karena menghasilkan memori dan pemborosan waktu pelatihan. Selain itu, tidak meningkatkan akurasi sama sekali.
 · Lapisan yang Sepenuhnya Terhubung: Ini, ada tiga lapisan yang sepenuhnya terhubung di VGGnet.
-
-![image](https://github.com/isnaenti/kelas/assets/100338225/adba0723-5b07-495b-9569-d08df85629ea)
 
 
    * RNN
